@@ -56,6 +56,7 @@ const MAX_BEND_ANGLE_RADS = (Math.PI / 180) * MAX_BEND_ANGLE_DEG;
 const MAX_BEND_ANGLE_DAISIES_RADS = (Math.PI / 180) * 45;
 const MAX_BEND_ANGLE_DANDELION_RADS = (Math.PI / 180) * 60;
 
+
 // Init and Cleanup ///////////////////////////////////////////
 function init(canvas) {
   // Setup Canvas variables
